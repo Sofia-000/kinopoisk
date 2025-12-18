@@ -1,0 +1,128 @@
+[
+  {
+    "name": "yashr",
+    "value": "1905081281766002000",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "i",
+    "value": "cQXVl3MVub07Z/SK4wcZtj6I+XYTms0Wd5el8lVJ5bQAhwrhkJoqLbnNbJOIGq7XqL1J9zbCo79JPnTR2vbj7EVxLIM=",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "yandexuid",
+    "value": "1326551651766002000",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "_ym_uid",
+    "value": "1766002002403934422",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "spravka",
+    "value": "dD0xNzY2MDAyMDAzO2k9NDYuMzUuMjI2LjI1NDtEPTY1QjkwQURCMzY5RDRBNEUzRjQyNDU4RTA4RkM5MkZFNjY2NDQ2NTZGMTlDOEQ4Rjg5RTVEMjU2RjlDRDJFMTEzQzA1NDE1MjlFQzA2QkM2NzA4OTJBQ0I4M0E2QTRCNzRDNEMwNEI5QTY3NTRCMjAzMEFDODMyQjY1OEVBMDUxNjE5N0VENkY0MTZDMDI5OEEzMzEyNTk5O3U9MTc2NjAwMjAwMzc3NjYwNjkxMDtoPWM3NGVmODQxZjgyMDZmMTM4ZWY4Mzg5ZTE5NDZiZmJk",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "no-re-reg-required",
+    "value": "1",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "_ym_isad",
+    "value": "2",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "gdpr",
+    "value": "0",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "_csrf",
+    "value": "NbW9xGGfeXOoQDb9G9Zx3T3V",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "a527d692b5eb709438fdf38ff509f23e",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "disable_server_sso_redirect",
+    "value": "1",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "sso_status",
+    "value": "sso.passport.yandex.ru:synchronized",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "ya_sess_id",
+    "value": "3:1766009287.5.0.1766009283598:_uIjLg:d8c2.1.2:1|740258035.0.2.3:1766009283.6:2076066866.7:1766009283|30:11511621.355175.wz5agwhIb2dGv6l8QZnZe3sbwuY",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "sessar",
+    "value": "1.1504434.CiCVRDaOozYMveryhecAxt39RZAGadx1WaYvoGWcj2y65A.l65VaCxmBj7Ro74l_f5RzbfAInwqgKMSk_8VMEJPtCg",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "yandex_login",
+    "value": "sofia.yagovtseva",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "ys",
+    "value": "c_chck.2884851408#udn.cDrQodC%2B0YTQuNGPINCv0LPQvtCy0YbQtdCy0LA%3D",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "L",
+    "value": "BkpgAWN2BFFUQVtSQE8KVmMKYGFGQF9zQV1RKjVIOzI2Bx4MQDw8JA==.1766009283.1504431.351192.36114d6965ecdd11cb925b6550ef9f2b",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "mda2_beacon",
+    "value": "1766009287081",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "_yasc",
+    "value": "uj4e89qpOeeUEgE8IKVUdH0q8EyFSnwSt+HivPC/ViQiE5NPu48SGSnTvxAjgw==",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "_ym_d",
+    "value": "1766010729",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  },
+  {
+    "name": "cycada",
+    "value": "VQvtlQOzPs9QHs9v9wDkdLcu9A0l6GcDKO+ftn9A+E8=",
+    "domain": ".kinopoisk.ru",
+    "path": "/"
+  }
+]
